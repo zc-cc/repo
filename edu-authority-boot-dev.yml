@@ -32,5 +32,5 @@ ali:
   sms:
     signName: 拉勾教育通知
     templateCode: SMS_xxx
-    assessKeyId: LTAI5tRUNfjXtfY7ut5otpVW
-    assessKeySecret: xoDrk5o1iU29vUck6eAzRHQ1xBDHe2
+    assessKeyId: LTAI5
+    assessKeySecret: xoDrk5
